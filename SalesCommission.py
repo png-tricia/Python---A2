@@ -1,6 +1,6 @@
 """
     Name: Patricia Gariando
-    Student ID: 991 446 494
+    Student ID: 000 000 000
     Summary: Assignment 2
     Date: Oct. 29 2023 
 """
@@ -119,4 +119,4 @@ for row in range(0, len(salespersonComm)):
     if count%4 == 0: print("|")
 
 # always show name and ID  
-print("\nPatricia Gariando: 991 446 494\n")
+print("\nPatricia Gariando: 000 000 000\n")
